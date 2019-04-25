@@ -1,0 +1,15 @@
+C:\Users\azat\source\repos\SecurityHW\SecurityHW\bin\Debug\SecurityHW.exe.config
+C:\Users\azat\source\repos\SecurityHW\SecurityHW\bin\Debug\SecurityHW.exe
+C:\Users\azat\source\repos\SecurityHW\SecurityHW\bin\Debug\SecurityHW.pdb
+C:\Users\azat\source\repos\SecurityHW\SecurityHW\bin\Debug\EntityFramework.dll
+C:\Users\azat\source\repos\SecurityHW\SecurityHW\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\azat\source\repos\SecurityHW\SecurityHW\bin\Debug\EntityFramework.xml
+C:\Users\azat\source\repos\SecurityHW\SecurityHW\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\azat\source\repos\SecurityHW\SecurityHW\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\azat\source\repos\SecurityHW\SecurityHW\obj\Debug\SecurityHW.csprojAssemblyReference.cache
+C:\Users\azat\source\repos\SecurityHW\SecurityHW\obj\Debug\SecurityHW.csproj.CoreCompileInputs.cache
+C:\Users\azat\source\repos\SecurityHW\SecurityHW\obj\Debug\SecurityHW.csproj.CopyComplete
+C:\Users\azat\source\repos\SecurityHW\SecurityHW\obj\Debug\SecurityHW.exe
+C:\Users\azat\source\repos\SecurityHW\SecurityHW\obj\Debug\SecurityHW.pdb
+C:\Users\azat\source\repos\SecurityHW\SecurityHW\bin\Debug\Database.mdf
+C:\Users\azat\source\repos\SecurityHW\SecurityHW\bin\Debug\Database_log.ldf
